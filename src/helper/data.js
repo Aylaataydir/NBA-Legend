@@ -1,7 +1,7 @@
 export const data = [
   {
     name: "Kareem Abdul-Jabbar",
-    img: "https://s22928.pcdn.co/wp-content/uploads/2018/03/Kareem-Abdul-Jabbar.jpg",
+    img: "https://media.gettyimages.com/id/53032724/photo/milwaukee-bucks-kareem-abdul-jabbar-shoots-at-the-foul-line-during-a-game-note-to-user-user.jpg?s=612x612&w=gi&k=20&c=HRGSFXTulor0bbM6rrqeHKlinHQ_72TXlywwnzE2UPQ=",
     statistics: [
       "38,387 points",
       "17,440 rebaunds",
