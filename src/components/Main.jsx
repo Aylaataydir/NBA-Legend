@@ -18,7 +18,6 @@ const Main = ({ value }) => {
         <Container className="rounded-2 mt-5 main">
             <Row className="p-5">
 
-
                 {filtered.map((item, index) => {
 
                     return (
@@ -35,8 +34,6 @@ const Main = ({ value }) => {
                         <h3>No player found.</h3>
                     </div>
                 )}
-
-
 
             </Row>
         </Container>
