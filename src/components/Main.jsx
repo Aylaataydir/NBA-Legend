@@ -13,10 +13,9 @@ const Main = ({ value }) => {
     console.log(filtered)
 
 
-
     return (
-        <Container className="rounded-2 mt-5 main">
-            <Row className="p-5">
+        <Container className="rounded-2 mt-5 main d-flex justify-content-center">
+            <Row className="p-5 ">
 
                 {filtered.map((item, index) => {
 

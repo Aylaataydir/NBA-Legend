@@ -14,7 +14,7 @@ const Search = () => {
     return (
         <div className='container text-center mt-5 mb-5 '>
             <img src={logo} width={150} alt="" />
-            <h1 className='mt-3'>NBA Legends</h1>
+            <h1 className='mt-3 text-dark'>NBA Legends</h1>
             <Form className='mt-3'>
                 <Form.Group className="mb-3 w-50 mx-auto" controlId="formBasicEmail">
                     <Form.Control 
@@ -24,6 +24,7 @@ const Search = () => {
                     </Form.Text>
                 </Form.Group>
             </Form>
+            
             <Main value= {inputValue} />
         </div>
     )
